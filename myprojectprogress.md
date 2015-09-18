@@ -1,0 +1,1 @@
+I would like to make a javascript chrome extention but thats about all I know for sure so far.
